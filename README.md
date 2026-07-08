@@ -93,7 +93,7 @@ Three different ways to get an LLM to tag a support ticket, benchmarked head-to-
 
 The final tagger returns the **top 3 most probable tags** with confidence scores, and is deployed as a live Gradio demo:
 
-<p align="center"><img src="screenshots/task5_demo.png" width="800" alt="Task 5 demo — Auto-tagging support tickets with top-3 predicted tags"></p>
+<p align="center"><img src="screenshots/task5 demo.png" width="800" alt="Task 5 demo — Auto-tagging support tickets with top-3 predicted tags"></p>
 
 📓 [`Task5_Auto_Tagging_Support_Tickets_LLM.ipynb`](./Task5_Auto_Tagging_Support_Tickets_LLM.ipynb)
 

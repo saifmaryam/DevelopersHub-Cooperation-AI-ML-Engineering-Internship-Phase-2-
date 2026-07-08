@@ -112,26 +112,6 @@ The final tagger returns the **top 3 most probable tags** with confidence scores
 </div>
 
 ---
-
-## 📁 Repository Structure
-
-```
-DevelopersHub-Phase2-Internship/
-│
-├── README.md                                          ← you are here
-├── Task1_News_Topic_Classifier_BERT.ipynb
-├── Task2_ML_Pipeline_Churn_Prediction.ipynb
-├── Task3_Multimodal_Housing_Price_Prediction.ipynb
-├── Task4_Context_Aware_Chatbot_RAG.ipynb
-├── Task5_Auto_Tagging_Support_Tickets_LLM.ipynb
-│
-└── screenshots/
-    ├── task1_demo.png
-    └── task5_demo.png
-```
-
----
-
 ## ✅ Submission Checklist
 
 - [x] All 5 tasks completed (internship required a minimum of 3)
@@ -145,9 +125,10 @@ DevelopersHub-Phase2-Internship/
 
 <div align="center">
 
-**Author:** *(your name)*
+**Author:** **(Maryam Saif)**
+
 AI/ML Engineering Intern @ DevelopersHub Corporation · Advanced Task Set, Phase 2
-📅 Due 21 July 2026
+📅 Due 14 July 2026
 
 ⭐ *If you're a reviewer skimming this — Task 4 and Task 5's "Engineering Notes" sections are probably the most interesting things here.*
 
